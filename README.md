@@ -1,3 +1,2 @@
 # Demo-Stock-Trading
-Demo đơn giản 
-Có kết hợp sử dụng MongoDB
+Demo đơn giản có kết hợp sử dụng MongoDB
